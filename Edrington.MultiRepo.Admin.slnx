@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Admin/Edrington.Admin.Web/Edrington.Admin.Web.csproj" />
+  <Project Path="APIGateway/Edrington.Admin.Api/Edrington.Admin.Api.csproj" />
+  <Project Path="BallotApi/Edrington.Ballot.AdminApi/Edrington.Ballot.AdminApi.csproj" />
+  <Project Path="OrderApi/Edrington.Order.AdminApi/Edrington.Order.AdminApi.csproj" />
+  <Project Path="PaymentApi/Edrington.Payment.Admin.Api/Edrington.Payment.Admin.Api.csproj" />
+  <Project Path="ProductApi/Edrington.Product.Admin.Api/Edrington.Product.Admin.Api.csproj" />
+</Solution>
